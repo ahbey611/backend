@@ -28,7 +28,7 @@ class BasicTestCase(unittest.TestCase):
             "nickname": "JohnDoe",
             "url": "https://231-test.software.school.202108078.beyzhexua.cm",
             "mobile": "+12.123456789012",
-            "magic_number": 1123
+            "magic_number": "1123"
         }
 
         self.testCase3 = {
